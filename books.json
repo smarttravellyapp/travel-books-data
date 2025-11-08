@@ -1,912 +1,1059 @@
 [
   {
-    "titleBook": "Lonely Planet Japan (Travel Guide)",
+    "city": "Lonely Planet Japan (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/91wHMR1UCmL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693726?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Spain (Travel Guide)",
+    "city": "Lonely Planet Spain (Travel Guide)",
     "country": "Spain",
+    "img": "https://m.media-amazon.com/images/I/81iDWAtRlBL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837584850?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Portugal (Travel Guide)",
+    "city": "Lonely Planet Portugal (Travel Guide)",
     "country": "Portugal",
+    "img": "https://m.media-amazon.com/images/I/91+W7VmboKL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837583587?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Korea (Travel Guide)",
+    "city": "Lonely Planet Korea (Travel Guide)",
     "country": "South Korea",
+    "img": "https://m.media-amazon.com/images/I/91tTF0LFT5L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698213?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Thailand (Travel Guide)",
+    "city": "Lonely Planet Thailand (Travel Guide)",
     "country": "Thailand",
+    "img": "https://m.media-amazon.com/images/I/91c6gHQpNBL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788688880?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Paris (Travel Guide)",
+    "city": "Lonely Planet Paris (Travel Guide)",
     "country": "France",
+    "img": "https://m.media-amazon.com/images/I/91ydhwTob2L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691987?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Kyoto & Osaka (Travel Guide)",
+    "city": "Lonely Planet Pocket Kyoto & Osaka (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/81uXI8uF-QL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693734?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Montreal & Quebec City (Travel Guide)",
+    "city": "Lonely Planet Montreal & Quebec City (Travel Guide)",
     "country": "Canada",
+    "img": "https://m.media-amazon.com/images/I/91yYNROgQAL._SL1500_.jpg",
     "link": "https://www.amazon.com/dp/1788684508?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Turkiye (Travel Guide)",
+    "city": "Lonely Planet Turkiye (Travel Guide)",
     "country": "Turkey",
+    "img": "https://m.media-amazon.com/images/I/81fVPCgi1nL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788688929?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Switzerland (Travel Guide)",
+    "city": "Lonely Planet Switzerland (Travel Guide)",
     "country": "Switzerland",
+    "img": "https://m.media-amazon.com/images/I/81IydAvh0YL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838699597?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Andalucia (Travel Guide)",
+    "city": "Lonely Planet Andalucia (Travel Guide)",
     "country": "Spain",
+    "img": "https://m.media-amazon.com/images/I/91iRLpoPlcL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837583625?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Lonely Planet's Where to Go When",
+    "city": "Travel Guide Lonely Planet's Where to Go When",
     "country": "General",
+    "img": "https://m.media-amazon.com/images/I/81DF7i7udtL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838695044?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Crete (Travel Guide)",
+    "city": "Lonely Planet Crete (Travel Guide)",
     "country": "Greece",
+    "img": "https://m.media-amazon.com/images/I/81LeFNxFpAL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788687957?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Ireland (Travel Guide)",
+    "city": "Lonely Planet Ireland (Travel Guide)",
     "country": "Ireland",
+    "img": "https://m.media-amazon.com/images/I/91EmtYRqmSL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698051?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Italy (Travel Guide)",
+    "city": "Lonely Planet Italy (Travel Guide)",
     "country": "Italy",
+    "img": "https://m.media-amazon.com/images/I/91jUZ-ycj7L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698108?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Morocco",
+    "city": "Travel Guide Morocco",
     "country": "Morocco",
+    "img": "https://m.media-amazon.com/images/I/81Ph6n7Yj6L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691693?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet London: Detailed Itineraries | Travel Like a Local | Insider...",
+    "city": "Lonely Planet London: Detailed Itineraries | Travel Like a Local | Insider...",
     "country": "United Kingdom",
+    "img": "https://m.media-amazon.com/images/I/81DbSeisH8L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691847?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Peru (Travel Guide)",
+    "city": "Lonely Planet Peru (Travel Guide)",
     "country": "Peru",
+    "img": "https://m.media-amazon.com/images/I/91X9hgGCg7L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788684257?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Tokyo (Travel Guide)",
+    "city": "Lonely Planet Tokyo (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/91AiGIG2kYL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693750?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Mexico",
+    "city": "Travel Guide Mexico",
     "country": "Mexico",
+    "img": "https://m.media-amazon.com/images/I/81Mprjk365L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/183869188X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Kauai (Travel Guide)",
+    "city": "Lonely Planet Kauai (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91PtZeAHMWL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691596?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Iceland (Travel Guide)",
+    "city": "Lonely Planet Iceland (Travel Guide)",
     "country": "Iceland",
+    "img": "https://m.media-amazon.com/images/I/91ZI7tODuEL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693610?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Georgia, Armenia & Azerbaijan (Travel Guide)",
+    "city": "Lonely Planet Georgia, Armenia & Azerbaijan (Travel Guide)",
     "country": "Georgia",
+    "img": "https://m.media-amazon.com/images/I/81oHDvy5zhL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697837?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Australia (Travel Guide)",
+    "city": "Lonely Planet Australia (Travel Guide)",
     "country": "Australia",
+    "img": "https://m.media-amazon.com/images/I/81aQY62CKcL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693904?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Indonesia (Travel Guide)",
+    "city": "Lonely Planet Indonesia (Travel Guide)",
     "country": "Indonesia",
+    "img": "https://m.media-amazon.com/images/I/81E+iy95hgL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698027?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Norway: Detailed Itineraries | Travel Like a Local | Insider...",
+    "city": "Lonely Planet Norway: Detailed Itineraries | Travel Like a Local | Insider...",
     "country": "Norway",
+    "img": "https://m.media-amazon.com/images/I/91DpvVvJm4L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698531?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Costa Rica",
+    "city": "Travel Guide Costa Rica",
     "country": "Costa Rica",
+    "img": "https://m.media-amazon.com/images/I/91u+l-5YpFL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691839?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Reykjavik & Southwest Iceland (Travel Guide)",
+    "city": "Lonely Planet Pocket Reykjavik & Southwest Iceland (Travel Guide)",
     "country": "Iceland",
+    "img": "https://m.media-amazon.com/images/I/814bzZTncnL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693645?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Japan (Travel Guide)",
+    "city": "Lonely Planet Japan (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/91zHTui6zXL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788683811?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Budapest (Pocket Guide)",
+    "city": "Lonely Planet Pocket Budapest (Pocket Guide)",
     "country": "Hungary",
+    "img": "https://m.media-amazon.com/images/I/818hvg852jL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/183869370X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Greece (Travel Guide)",
+    "city": "Lonely Planet Greece (Travel Guide)",
     "country": "Greece",
+    "img": "https://m.media-amazon.com/images/I/91OUWWLcs5L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697942?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Turkey (Travel Guide)",
+    "city": "Lonely Planet Turkey (Travel Guide)",
     "country": "Turkey",
+    "img": "https://m.media-amazon.com/images/I/A1w0lKIQndL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178657800X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Romania & Bulgaria (Travel Guide)",
+    "city": "Lonely Planet Romania & Bulgaria (Travel Guide)",
     "country": "Romania",
+    "img": "https://m.media-amazon.com/images/I/81rXP2fv7hL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787016358?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Croatia: Detailed Itineraries | Travel Like a Local | Insider...",
+    "city": "Lonely Planet Croatia: Detailed Itineraries | Travel Like a Local | Insider...",
     "country": "Croatia",
+    "img": "https://m.media-amazon.com/images/I/91hOMOGClGL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693513?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Philippines (Travel Guide)",
+    "city": "Lonely Planet Philippines (Travel Guide)",
     "country": "Philippines",
+    "img": "https://m.media-amazon.com/images/I/91CXA8HpruL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698655?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Finland (Travel Guide)",
+    "city": "Lonely Planet Finland (Travel Guide)",
     "country": "Finland",
+    "img": "https://m.media-amazon.com/images/I/91MMydzlBmL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787015661?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Route 66 Road Trips (Road Trips Guide)",
+    "city": "Lonely Planet Route 66 Road Trips (Road Trips Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/A1heJIyuJYL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178657358X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Great Britain (Travel Guide)",
+    "city": "Lonely Planet Great Britain (Travel Guide)",
     "country": "United Kingdom",
+    "img": "https://m.media-amazon.com/images/I/81n1qDxMWnL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693548?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Europe (Travel Guide)",
+    "city": "Lonely Planet Europe (Travel Guide)",
     "country": "Europe",
+    "img": "https://m.media-amazon.com/images/I/91ORwsPTPcL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788683900?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Venice & the Veneto (Travel Guide)",
+    "city": "Lonely Planet Venice & the Veneto (Travel Guide)",
     "country": "Italy",
+    "img": "https://m.media-amazon.com/images/I/81tzWvYyBuL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788684109?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Wales (Travel Guide)",
+    "city": "Lonely Planet Wales (Travel Guide)",
     "country": "United Kingdom",
+    "img": "https://m.media-amazon.com/images/I/81kcwsDeIrL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787013677?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Egypt",
+    "city": "Travel Guide Egypt",
     "country": "Egypt",
+    "img": "https://m.media-amazon.com/images/I/81vgSqAK-xL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697330?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Estonia, Latvia & Lithuania (Travel Guide)",
+    "city": "Lonely Planet Estonia, Latvia & Lithuania (Travel Guide)",
     "country": "Lithuania",
+    "img": "https://m.media-amazon.com/images/I/71lQ6rT5ifL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697365?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Experience Japan (Travel Guide)",
+    "city": "Lonely Planet Experience Japan (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/815zJuDaPeL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697578?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Naples Pompeii & the Amalfi Coast (Travel Guide)",
+    "city": "Lonely Planet Naples Pompeii & the Amalfi Coast (Travel Guide)",
     "country": "Italy",
+    "img": "https://m.media-amazon.com/images/I/91N4aWARlnL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698388?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Alaska (Travel Guide)",
+    "city": "Lonely Planet Alaska (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/81yY9uSRKhL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838696652?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Korea (Travel Guide)",
+    "city": "Lonely Planet Korea (Travel Guide)",
     "country": "South Korea",
+    "img": "https://m.media-amazon.com/images/I/71oc-sgL9oL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788680464?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Azores (Travel Guide)",
+    "city": "Lonely Planet Pocket Azores (Travel Guide)",
     "country": "Portugal",
+    "img": "https://m.media-amazon.com/images/I/81dhWdavgyL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837582319?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Seoul (Travel Guide)",
+    "city": "Lonely Planet Seoul (Travel Guide)",
     "country": "South Korea",
+    "img": "https://m.media-amazon.com/images/I/914z+3oGIxL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788680391?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Lisbon (Pocket Guide)",
+    "city": "Lonely Planet Pocket Lisbon (Pocket Guide)",
     "country": "Portugal",
+    "img": "https://m.media-amazon.com/images/I/91euLN-pC3L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838694021?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Scandinavia (Travel Guide)",
+    "city": "Lonely Planet Scandinavia (Travel Guide)",
     "country": "Scandinavia",
+    "img": "https://m.media-amazon.com/images/I/81CQwtprKAL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787016412?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide New Zealand",
+    "city": "Travel Guide New Zealand",
     "country": "New Zealand",
+    "img": "https://m.media-amazon.com/images/I/71qrcP6WYZL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691715?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Israel & the Palestinian Territories (Travel Guide)",
+    "city": "Lonely Planet Israel & the Palestinian Territories (Travel Guide)",
     "country": "Israel",
+    "img": "https://m.media-amazon.com/images/I/A1K8x6TbK1L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787015823?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Jamaica (Travel Guide)",
+    "city": "Lonely Planet Jamaica (Travel Guide)",
     "country": "Jamaica",
+    "img": "https://m.media-amazon.com/images/I/915Isl3zs8L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787015866?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Brazil",
+    "city": "Travel Guide Brazil",
     "country": "Brazil",
+    "img": "https://m.media-amazon.com/images/I/91bqH6GInmL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838696997?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet New England (Travel Guide)",
+    "city": "Lonely Planet New England (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/81pa4JRD5xL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837583161?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Bali, Lombok & Nusa Tenggara (Travel Guide)",
+    "city": "Lonely Planet Bali, Lombok & Nusa Tenggara (Travel Guide)",
     "country": "Indonesia",
+    "img": "https://m.media-amazon.com/images/I/91uC8dYZS+L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693688?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Kyoto (Travel Guide)",
+    "city": "Lonely Planet Kyoto (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/91CvLCI3MbL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787017036?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Boston (Travel Guide)",
+    "city": "Lonely Planet Boston (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91gTIi3NJtL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837584893?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket London (Travel Guide)",
+    "city": "Lonely Planet Pocket London (Travel Guide)",
     "country": "United Kingdom",
+    "img": "https://m.media-amazon.com/images/I/81uuaoQOUWL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837582343?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Florence & Tuscany (Travel Guide)",
+    "city": "Lonely Planet Florence & Tuscany (Travel Guide)",
     "country": "Italy",
+    "img": "https://m.media-amazon.com/images/I/91sch0J7bZL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697764?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Eastern Europe (Travel Guide)",
+    "city": "Lonely Planet Eastern Europe (Travel Guide)",
     "country": "Eastern Europe",
+    "img": "https://m.media-amazon.com/images/I/81HEEjO-q-L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788683919?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Mongolia (Travel Guide)",
+    "city": "Lonely Planet Mongolia (Travel Guide)",
     "country": "Mongolia",
+    "img": "https://m.media-amazon.com/images/I/91x45xK8jiL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786575728?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Bhutan 8 (Lonely Planet)",
+    "city": "Travel Guide Bhutan 8 (Lonely Planet)",
     "country": "Bhutan",
+    "img": "https://m.media-amazon.com/images/I/91Xh9oMmNkL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178868785X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet How to Be A Travel Writer",
+    "city": "Lonely Planet How to Be A Travel Writer",
     "country": "General",
+    "img": "https://m.media-amazon.com/images/I/91kYJ3C8KcL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786578662?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Central Asia (Travel Guide)",
+    "city": "Lonely Planet Central Asia (Travel Guide)",
     "country": "Central Asia",
+    "img": "https://m.media-amazon.com/images/I/B1WQNq3NQtS._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786574640?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Vietnam (Travel Guide)",
+    "city": "Lonely Planet Vietnam (Travel Guide)",
     "country": "Vietnam",
+    "img": "https://m.media-amazon.com/images/I/A1nz2yviI9L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788688961?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Cape Town & the Garden Route (Travel Guide)",
+    "city": "Lonely Planet Cape Town & the Garden Route (Travel Guide)",
     "country": "South Africa",
+    "img": "https://m.media-amazon.com/images/I/81N-C4yz0OL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787016722?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet South India & Kerala (Travel Guide)",
+    "city": "Lonely Planet South India & Kerala (Travel Guide)",
     "country": "India",
+    "img": "https://m.media-amazon.com/images/I/81X+e367y6L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788683889?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet The Big Trip",
+    "city": "Lonely Planet The Big Trip",
     "country": "General",
+    "img": "https://m.media-amazon.com/images/I/81hMWi-1o3L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788681290?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet The Travel Atlas",
+    "city": "Lonely Planet The Travel Atlas",
     "country": "General",
+    "img": "https://m.media-amazon.com/images/I/81OtFsqnSpL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178701696X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Philippines (Travel Guide)",
+    "city": "Lonely Planet Philippines (Travel Guide)",
     "country": "Philippines",
+    "img": "https://m.media-amazon.com/images/I/91Oj8vnn56L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787016129?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Best Road Trips Ireland 4 (Lonely Planet)",
+    "city": "Travel Guide Best Road Trips Ireland 4 (Lonely Planet)",
     "country": "Ireland",
+    "img": "https://m.media-amazon.com/images/I/A1DSZDLzkJL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788688341?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Romania & Bulgaria (Travel Guide)",
+    "city": "Lonely Planet Romania & Bulgaria (Travel Guide)",
     "country": "Romania",
+    "img": "https://m.media-amazon.com/images/I/A1EMnkjjLyL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786575434?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Vienna (Travel Guide)",
+    "city": "Lonely Planet Vienna (Travel Guide)",
     "country": "Austria",
+    "img": "https://m.media-amazon.com/images/I/A1A59uyRycL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787013847?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Tanzania (Travel Guide)",
+    "city": "Lonely Planet Tanzania (Travel Guide)",
     "country": "Tanzania",
+    "img": "https://m.media-amazon.com/images/I/91+8p1VcWIL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786575620?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet India (Travel Guide)",
+    "city": "Lonely Planet India (Travel Guide)",
     "country": "India",
+    "img": "https://m.media-amazon.com/images/I/91PCuAltLDL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698000?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Western Balkans (Travel Guide)",
+    "city": "Lonely Planet Western Balkans (Travel Guide)",
     "country": "Western Balkans",
+    "img": "https://m.media-amazon.com/images/I/91tmRihy+xL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788682777?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Dominican Republic (Travel Guide)",
+    "city": "Lonely Planet Dominican Republic (Travel Guide)",
     "country": "Dominican Republic",
+    "img": "https://m.media-amazon.com/images/I/A15inCeWvaL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786571404?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Rome (Travel Guide)",
+    "city": "Lonely Planet Pocket Rome (Travel Guide)",
     "country": "Italy",
+    "img": "https://m.media-amazon.com/images/I/815hHcdcqHL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/183758236X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Edinburgh (Pocket Guide)",
+    "city": "Lonely Planet Pocket Edinburgh (Pocket Guide)",
     "country": "United Kingdom",
+    "img": "https://m.media-amazon.com/images/I/81p3HkXXt0L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693564?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Africa (Travel Guide)",
+    "city": "Lonely Planet Africa (Travel Guide)",
     "country": "Africa",
+    "img": "https://m.media-amazon.com/images/I/81FAIkWa3tL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787015173?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Vietnam, Cambodia, Laos & Northern Thailand (Travel Guide)",
+    "city": "Lonely Planet Vietnam, Cambodia, Laos & Northern Thailand (Travel Guide)",
     "country": "Vietnam",
+    "img": "https://m.media-amazon.com/images/I/91wdKXG52fL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787017958?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Best Day Hikes Japan 2 (Hiking Guide)",
+    "city": "Lonely Planet Best Day Hikes Japan 2 (Hiking Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/912IBIEQrsL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838692061?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Panama 10 (Lonely Planet)",
+    "city": "Travel Guide Panama 10 (Lonely Planet)",
     "country": "Panama",
+    "img": "https://m.media-amazon.com/images/I/81e0kiwXiGL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698604?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Argentina 13 (Travel Guide)",
+    "city": "Lonely Planet Argentina 13 (Travel Guide)",
     "country": "Argentina",
+    "img": "https://m.media-amazon.com/images/I/81-bpV8jkUL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838696687?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Epic Bike Rides of Europe",
+    "city": "Lonely Planet Epic Bike Rides of Europe",
     "country": "Europe",
+    "img": "https://m.media-amazon.com/images/I/71zux7CG7rL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788689429?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Munich, Bavaria & the Black Forest (Travel Guide)",
+    "city": "Lonely Planet Munich, Bavaria & the Black Forest (Travel Guide)",
     "country": "Germany",
+    "img": "https://m.media-amazon.com/images/I/81ITk5fheDL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698361?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet West Coast Australia (Travel Guide)",
+    "city": "Lonely Planet West Coast Australia (Travel Guide)",
     "country": "Australia",
+    "img": "https://m.media-amazon.com/images/I/81ZrPhM5IgL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178868396X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet West Africa (Travel Guide)",
+    "city": "Lonely Planet West Africa (Travel Guide)",
     "country": "West Africa",
+    "img": "https://m.media-amazon.com/images/I/A1v+FVkwGeL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786570424?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Tokyo (Travel Guide)",
+    "city": "Lonely Planet Pocket Tokyo (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/81fDFysA9zL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838699228?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Shanghai (Travel Guide)",
+    "city": "Lonely Planet Shanghai (Travel Guide)",
     "country": "China",
+    "img": "https://m.media-amazon.com/images/I/A13ALLDrgBL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786575213?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Cruise Ports Alaska (Travel Guide)",
+    "city": "Lonely Planet Cruise Ports Alaska (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91eI7ibW6GL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787014193?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Colorado",
+    "city": "Travel Guide Colorado",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/9140QYoDy0L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787016811?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Stockholm (Pocket Guide)",
+    "city": "Lonely Planet Pocket Stockholm (Pocket Guide)",
     "country": "Sweden",
+    "img": "https://m.media-amazon.com/images/I/81awbBjeUgL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787017559?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Botswana & Namibia",
+    "city": "Travel Guide Botswana & Namibia",
     "country": "Namibia",
+    "img": "https://m.media-amazon.com/images/I/81xf-CBgLDL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178701665X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Germany 11 (Travel Guide)",
+    "city": "Lonely Planet Germany 11 (Travel Guide)",
     "country": "Germany",
+    "img": "https://m.media-amazon.com/images/I/915wgXpodgL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697853?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Poland (Travel Guide)",
+    "city": "Lonely Planet Poland (Travel Guide)",
     "country": "Poland",
+    "img": "https://m.media-amazon.com/images/I/91-3nqhI5XL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788688732?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Coastal California (Travel Guide)",
+    "city": "Lonely Planet Coastal California (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91nIP2tmHYL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786573601?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Mexico (Travel Guide)",
+    "city": "Lonely Planet Mexico (Travel Guide)",
     "country": "Mexico",
+    "img": "https://m.media-amazon.com/images/I/61XjY10pXDL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787017168?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Utah's National Parks (National Parks Guide)",
+    "city": "Lonely Planet Utah's National Parks (National Parks Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/81yHENLII1L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": ""
   },
   {
-    "titleBook": "Lonely Planet India (Travel Guide)",
+    "city": "Lonely Planet India (Travel Guide)",
     "country": "India",
+    "img": "https://m.media-amazon.com/images/I/91BCmRZ5baL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788683870?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Chicago (Travel Guide)",
+    "city": "Lonely Planet Chicago (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91ggFGrYfrL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837583129?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Prague (Pocket Guide)",
+    "city": "Lonely Planet Pocket Prague (Pocket Guide)",
     "country": "Czech Republic",
+    "img": "https://m.media-amazon.com/images/I/81lapm69DCL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691936?tag=smarttravelly-20"
   },
   {
-    "titleBook": "San Francisco City Guide 3ed (French Edition)",
+    "city": "San Francisco City Guide 3ed (French Edition)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/81ym+QmjcdL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/2816195708?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Barcelona (Travel Guide)",
+    "city": "Lonely Planet Barcelona (Travel Guide)",
     "country": "Spain",
+    "img": "https://m.media-amazon.com/images/I/71uzlUyM1ML._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787015289?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Copenhagen (Pocket Guide)",
+    "city": "Lonely Planet Pocket Copenhagen (Pocket Guide)",
     "country": "Denmark",
+    "img": "https://m.media-amazon.com/images/I/61hoU1T98dL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698817?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Warsaw (Pocket Guide)",
+    "city": "Lonely Planet Pocket Warsaw (Pocket Guide)",
     "country": "Poland",
+    "img": "https://m.media-amazon.com/images/I/81vsNl7XVuL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788684672?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet USA 12 (Travel Guide)",
+    "city": "Lonely Planet USA 12 (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/614Mi-S+I2L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788684184?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Canada (Travel Guide)",
+    "city": "Lonely Planet Canada (Travel Guide)",
     "country": "Canada",
+    "img": "https://m.media-amazon.com/images/I/91wdWXDpP-L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697063?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Ecuador & the Galapagos Islands (Travel Guide)",
+    "city": "Lonely Planet Ecuador & the Galapagos Islands (Travel Guide)",
     "country": "Ecuador",
+    "img": "https://m.media-amazon.com/images/I/81lgFoYbSPL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697322?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Sweden (Travel Guide)",
+    "city": "Lonely Planet Sweden (Travel Guide)",
     "country": "Sweden",
+    "img": "https://m.media-amazon.com/images/I/71Uu7zsipPL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": ""
   },
   {
-    "titleBook": "Lonely Planet Cape Town & the Garden Route (Travel Guide)",
+    "city": "Lonely Planet Cape Town & the Garden Route (Travel Guide)",
     "country": "South Africa",
+    "img": "https://m.media-amazon.com/images/I/910L8BIrUAL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786571676?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Experience Thailand (Travel Guide)",
+    "city": "Lonely Planet Experience Thailand (Travel Guide)",
     "country": "Thailand",
+    "img": "https://m.media-amazon.com/images/I/81n3GGiTOiL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697683?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Thailand (Travel Guide)",
+    "city": "Lonely Planet Thailand (Travel Guide)",
     "country": "Thailand",
+    "img": "https://m.media-amazon.com/images/I/A1TfmaPhMNL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": ""
   },
   {
-    "titleBook": "Lonely Planet Provence & the Cote d'Azur 11 (Travel Guide)",
+    "city": "Lonely Planet Provence & the Cote d'Azur 11 (Travel Guide)",
     "country": "France",
+    "img": "https://m.media-amazon.com/images/I/81D3gUm1jHL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838699341?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Dubai & Abu Dhabi (Travel Guide)",
+    "city": "Lonely Planet Dubai & Abu Dhabi (Travel Guide)",
     "country": "United Arab Emirates",
+    "img": "https://m.media-amazon.com/images/I/81QZdelBauL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697284?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Colombia",
+    "city": "Travel Guide Colombia",
     "country": "Colombia",
+    "img": "https://m.media-amazon.com/images/I/91lTOJPGQ4L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697187?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Banff, Jasper and Glacier National Parks (National Parks Guide)",
+    "city": "Lonely Planet Banff, Jasper and Glacier National Parks (National Parks Guide)",
     "country": "Canada",
+    "img": "https://m.media-amazon.com/images/I/71m5sytWaHL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/183869675X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Berlin (Pocket Guide)",
+    "city": "Lonely Planet Pocket Berlin (Pocket Guide)",
     "country": "Germany",
+    "img": "https://m.media-amazon.com/images/I/81uFcQF1v+L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693483?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Washington, Oregon & the Pacific Northwest (Travel Guide)",
+    "city": "Lonely Planet Washington, Oregon & the Pacific Northwest (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/9187+YroBAL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788684613?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Austria (Travel Guide)",
+    "city": "Lonely Planet Austria (Travel Guide)",
     "country": "Austria",
+    "img": "https://m.media-amazon.com/images/I/91PRS-r98LL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838696733?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Panama (Travel Guide)",
+    "city": "Lonely Planet Panama (Travel Guide)",
     "country": "Panama",
+    "img": "https://m.media-amazon.com/images/I/91crJoYqbnL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178868432X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Montenegro 5 (Travel Guide)",
+    "city": "Lonely Planet Montenegro 5 (Travel Guide)",
     "country": "Montenegro",
+    "img": "https://m.media-amazon.com/images/I/91TiNJT1GZL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838698337?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Helsinki (Pocket Guide)",
+    "city": "Lonely Planet Pocket Helsinki (Pocket Guide)",
     "country": "Finland",
+    "img": "https://m.media-amazon.com/images/I/81+9D54P9BL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787011216?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Kyoto & Osaka (Pocket Guide)",
+    "city": "Lonely Planet Pocket Kyoto & Osaka (Pocket Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/81zK3K+rA8L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178868382X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Best of France (Travel Guide)",
+    "city": "Lonely Planet Best of France (Travel Guide)",
     "country": "France",
+    "img": "https://m.media-amazon.com/images/I/81qMU3J1O1L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786573938?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Lonely Planet's Where To Go When Europe",
+    "city": "Lonely Planet Lonely Planet's Where To Go When Europe",
     "country": "Europe",
+    "img": "https://m.media-amazon.com/images/I/81zESw8cQ-L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838690409?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet East Coast Australia (Travel Guide)",
+    "city": "Lonely Planet East Coast Australia (Travel Guide)",
     "country": "Australia",
+    "img": "https://m.media-amazon.com/images/I/81uxEVgUn0L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691952?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet South America (Travel Guide)",
+    "city": "Lonely Planet South America (Travel Guide)",
     "country": "South America",
+    "img": "https://m.media-amazon.com/images/I/81FR45x9ukL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178868446X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Prague & the Czech Republic (Travel Guide)",
+    "city": "Lonely Planet Prague & the Czech Republic (Travel Guide)",
     "country": "Czech Republic",
+    "img": "https://m.media-amazon.com/images/I/91iAWXEn7lL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786571587?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Puerto Rico (Travel Guide)",
+    "city": "Lonely Planet Puerto Rico (Travel Guide)",
     "country": "United States of America",
-    "link": "https://www.amazon.com/dp1786571420?tag=smarttravelly-20"
+    "img": "https://m.media-amazon.com/images/I/91tEf10dbHL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
+    "link": "https://www.amazon.com/dp/1786571420?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Cyprus (Travel Guide)",
+    "city": "Lonely Planet Cyprus (Travel Guide)",
     "country": "Cyprus",
+    "img": "https://m.media-amazon.com/images/I/A128-EJO68L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786573490?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Sri Lanka (Travel Guide)",
+    "city": "Lonely Planet Sri Lanka (Travel Guide)",
     "country": "Sri Lanka",
+    "img": "https://m.media-amazon.com/images/I/81BLdOEyj4L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691804?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Norway (Travel Guide)",
+    "city": "Lonely Planet Norway (Travel Guide)",
     "country": "Norway",
+    "img": "https://m.media-amazon.com/images/I/71MmCQsXiTL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787016080?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Sri Lanka (Travel Guide)",
+    "city": "Lonely Planet Sri Lanka (Travel Guide)",
     "country": "Sri Lanka",
+    "img": "https://m.media-amazon.com/images/I/718HRywKWAL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787016595?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet New England 1 (Travel Guide)",
+    "city": "Lonely Planet New England 1 (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91HRrZ5c5ML._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788684575?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet West Coast Australia (Travel Guide)",
+    "city": "Lonely Planet West Coast Australia (Travel Guide)",
     "country": "Australia",
+    "img": "https://m.media-amazon.com/images/I/91wnUH8AEfL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787013898?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Southern Italy (Travel Guide)",
+    "city": "Lonely Planet Southern Italy (Travel Guide)",
     "country": "Italy",
+    "img": "https://m.media-amazon.com/images/I/91GO-Wb3FeL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178868415X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Honolulu Waikiki & Oahu (Travel Guide)",
+    "city": "Lonely Planet Honolulu Waikiki & Oahu (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/81r3gmFnsIL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786578565?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Experience Tokyo (Travel Guide)",
+    "city": "Lonely Planet Experience Tokyo (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/81JSISRRgIL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838697705?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Lonely Planet's Guide to Train Travel in Europe",
+    "city": "Travel Guide Lonely Planet's Guide to Train Travel in Europe",
     "country": "Europe",
+    "img": "https://m.media-amazon.com/images/I/81-EimclrvL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/183869496X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Tasmania (Travel Guide)",
+    "city": "Lonely Planet Tasmania (Travel Guide)",
     "country": "Australia",
+    "img": "https://m.media-amazon.com/images/I/81tw3N3cJwL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838699643?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Athens (Pocket Guide)",
+    "city": "Lonely Planet Pocket Athens (Pocket Guide)",
     "country": "Greece",
+    "img": "https://m.media-amazon.com/images/I/71uvbb1kGgL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/183869868X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Greek Islands (Travel Guide)",
+    "city": "Lonely Planet Greek Islands (Travel Guide)",
     "country": "Greece",
+    "img": "https://m.media-amazon.com/images/I/71ynLGIHtFL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": ""
   },
   {
-    "titleBook": "Lonely Planet Best Road Trips New England (Road Trips Guide)",
+    "city": "Lonely Planet Best Road Trips New England (Road Trips Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/81kcSheUf6L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1837584818?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Best Road Trips Canadian Rockies 1 (Road Trips Guide)",
+    "city": "Lonely Planet Best Road Trips Canadian Rockies 1 (Road Trips Guide)",
     "country": "Canada",
+    "img": "https://m.media-amazon.com/images/I/81gjMLsEl2L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838695680?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Cambodia (Travel Guide)",
+    "city": "Lonely Planet Cambodia (Travel Guide)",
     "country": "Cambodia",
+    "img": "https://m.media-amazon.com/images/I/81MqaLxAWwL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788687876?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Jordan (Travel Guide)",
+    "city": "Lonely Planet Jordan (Travel Guide)",
     "country": "Jordan",
+    "img": "https://m.media-amazon.com/images/I/81Dth8iwzkL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787015882?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Toronto (Pocket Guide)",
+    "city": "Lonely Planet Pocket Toronto (Pocket Guide)",
     "country": "Canada",
+    "img": "https://m.media-amazon.com/images/I/814bgtFmNGL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788683382?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Cruise Ports Scandinavia & Northern Europe (Travel Guide)",
+    "city": "Lonely Planet Cruise Ports Scandinavia & Northern Europe (Travel Guide)",
     "country": "Scandinavia",
+    "img": "https://m.media-amazon.com/images/I/91RgkvWALUL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787014207?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Cancun & the Riviera Maya (Pocket Guide)",
+    "city": "Lonely Planet Pocket Cancun & the Riviera Maya (Pocket Guide)",
     "country": "Mexico",
+    "img": "https://m.media-amazon.com/images/I/91FF0WE6E1L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788682688?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Genoa & Cinque Terre (Pocket Guide)",
+    "city": "Lonely Planet Pocket Genoa & Cinque Terre (Pocket Guide)",
     "country": "Italy",
+    "img": "https://m.media-amazon.com/images/I/910f6DzJ4VL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788683358?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Kyoto (Travel Guide)",
+    "city": "Lonely Planet Kyoto (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/91vhMVCjUvL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786570637?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet USA's National Parks (National Parks Guide)",
+    "city": "Lonely Planet USA's National Parks (National Parks Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91+i13wEWZL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838699759?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket London (Pocket Guide)",
+    "city": "Lonely Planet Pocket London (Pocket Guide)",
     "country": "United Kingdom",
+    "img": "https://m.media-amazon.com/images/I/81eEQvkpwpL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691898?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Hong Kong (Travel Guide)",
+    "city": "Lonely Planet Pocket Hong Kong (Travel Guide)",
     "country": "China",
+    "img": "https://m.media-amazon.com/images/I/816221tFllL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838693661?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Bath, Bristol & the Southwest (Pocket Guide)",
+    "city": "Lonely Planet Pocket Bath, Bristol & the Southwest (Pocket Guide)",
     "country": "United Kingdom",
+    "img": "https://m.media-amazon.com/images/I/91J5C0rYgGL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787016927?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Guatemala (Travel Guide)",
+    "city": "Lonely Planet Guatemala (Travel Guide)",
     "country": "Guatemala",
+    "img": "https://m.media-amazon.com/images/I/91oATv7mhtL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/178657490X?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet The Digital Nomad Handbook",
+    "city": "Lonely Planet The Digital Nomad Handbook",
     "country": "General",
+    "img": "https://m.media-amazon.com/images/I/81ESxi1jRfL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838690425?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Experience Tokyo (Travel Guide)",
+    "city": "Lonely Planet Experience Tokyo (Travel Guide)",
     "country": "Japan",
+    "img": "https://m.media-amazon.com/images/I/81lb6bDFleL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838694765?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Laos (Travel Guide)",
+    "city": "Lonely Planet Laos (Travel Guide)",
     "country": "Laos",
+    "img": "https://m.media-amazon.com/images/I/A17Yc1+orLL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787014088?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Southwest USA (Travel Guide)",
+    "city": "Lonely Planet Southwest USA (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91J-bTk2fGL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786573636?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Russia (Travel Guide)",
+    "city": "Lonely Planet Russia (Travel Guide)",
     "country": "Russia",
+    "img": "https://m.media-amazon.com/images/I/A1G26BlQr+L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786573628?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Best Road Trips USA",
+    "city": "Travel Guide Best Road Trips USA",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/91yyS+U9UUL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691944?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Best Road Trips Spain & Portugal (Travel Guide)",
+    "city": "Lonely Planet Best Road Trips Spain & Portugal (Travel Guide)",
     "country": "Spain",
+    "img": "https://m.media-amazon.com/images/I/91LXCl0SPiL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691464?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Alaska 1 (Travel Guide)",
+    "city": "Lonely Planet Alaska 1 (Travel Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/71HIkkupZRL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787015181?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Travel Guide Kenya",
+    "city": "Travel Guide Kenya",
     "country": "Kenya",
+    "img": "https://m.media-amazon.com/images/I/719QeGfE1pL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/B0CWW1SY5M?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Provence & the Cote d'Azur (Travel Guide)",
+    "city": "Lonely Planet Provence & the Cote d'Azur (Travel Guide)",
     "country": "France",
+    "img": "https://m.media-amazon.com/images/I/81D3gUm1jHL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786573202?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Coastal Queensland & the Great Barrier Reef (Travel Guide)",
+    "city": "Lonely Planet Coastal Queensland & the Great Barrier Reef (Travel Guide)",
     "country": "Australia",
+    "img": "https://m.media-amazon.com/images/I/91veJ3VG2WL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786571552?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket New Orleans (Pocket Guide)",
+    "city": "Lonely Planet Pocket New Orleans (Pocket Guide)",
     "country": "United States of America",
+    "img": "https://m.media-amazon.com/images/I/81cyOo-1kmL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1787017451?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Ethiopia & Djibouti (Travel Guide)",
+    "city": "Lonely Planet Ethiopia & Djibouti (Travel Guide)",
     "country": "Ethiopia",
+    "img": "https://m.media-amazon.com/images/I/91nHXGZY83L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786570408?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Best Road Trips Australia (Travel Guide)",
+    "city": "Lonely Planet Best Road Trips Australia (Travel Guide)",
     "country": "Australia",
+    "img": "https://m.media-amazon.com/images/I/91ahmPk1YQL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838696717?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Rajasthan, Delhi & Agra (Travel Guide)",
+    "city": "Lonely Planet Rajasthan, Delhi & Agra (Travel Guide)",
     "country": "India",
+    "img": "https://m.media-amazon.com/images/I/81ks-2RX6wL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1788683862?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Pocket Barcelona (Pocket Guide)",
+    "city": "Lonely Planet Pocket Barcelona (Pocket Guide)",
     "country": "Spain",
+    "img": "https://m.media-amazon.com/images/I/718-PE3rX8L._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1838691766?tag=smarttravelly-20"
   },
   {
-    "titleBook": "Lonely Planet Best of Peru (Travel Guide)",
+    "city": "Lonely Planet Best of Peru (Travel Guide)",
     "country": "Peru",
+    "img": "https://m.media-amazon.com/images/I/A19uMPFzrBL._AC_CR0%2C0%2C0%2C0_SY315_.jpg",
     "link": "https://www.amazon.com/dp/1786574950?tag=smarttravelly-20"
   },
-  {
-    "titleBook": "Lonely Planet Cork, Kerry & Southwest Ireland Road Trips (Road Trips Guide)",
-    "country": "Ireland",
-    "link": "https://www.amazon.com/dp/1788686489?tag=smarttravelly-20"
-  },
-  {
-    "titleBook": "Lonely Planet Best Day Hikes France 2 (Hiking Guide)",
-    "country": "France",
-    "link": "https://www.amazon.com/dp/1838696857?tag=smarttravelly-20"
-  },
-  {
-    "titleBook": "Lonely Planet Pocket Tenerife (Travel Guide)",
-    "country": "Spain",
-    "link": "https://www.amazon.com/dp/1837582378?tag=smarttravelly-20"
-  },
-  {
-    "titleBook": "Lonely Planet Discover China (Travel Guide)",
-    "country": "China",
-    "link": "https://www.amazon.com/dp/1786578875?tag=smarttravelly-20"
-  },
-  {
-    "titleBook": "Lonely Planet Canary Islands (Travel Guide)",
-    "country": "Spain",
-    "link": "https://www.amazon.com/dp/1786574985?tag=smarttravelly-20"
-  },
-  {
-    "titleBook": "Lonely Planet Florence & Tuscany (Travel Guide)",
-    "country": "Italy",
-    "link": "https://www.amazon.com/dp/1788684117?tag=smarttravelly-20"
-  }
-]
+  
+  ]
